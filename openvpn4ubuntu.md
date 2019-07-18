@@ -271,11 +271,11 @@ NOTE: If you run ./clean-all, I will be doing a rm -rf on
 注：可以参考这个帮助文档：http://docs.ucloud.cn/network/unet/common.html\#id1  
 在后台，“防火墙管理”，选中您主机应用的防火墙，点击编辑。
 
-> ![image](/vpn_images/o4c.5.01.png)
+![image](/vpn_images/o4c.5.01.png)
 
 点击“添加规则”，增加如下TCP 1194，然后“应用规则”。
 
-> ![image](/vpn_images/o4c.5.02.png)
+![image](/vpn_images/o4c.5.02.png)
 
 ## 客户端配置
 
